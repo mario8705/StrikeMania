@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-up" width="32" height="32" tilewidth="8" tileheight="8" nextobjectid="1">
+ <tileset firstgid="1" name="Walls" tilewidth="8" tileheight="8" tilecount="25" columns="5">
+  <image source="../../../Desktop/tileset_candy.png" width="40" height="40"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztltsKgDAIhq0gggrqot7/UZs0wQ4TO2hd7IefYDa/5hQqAKD8yFVwHTwHdyeehJjG0n6MNZGPzzNJMY00uf/OH2F7X6Qirlnz+f31LNbCeod3leLTudCD8G2U420+nYvO3R+3mvIhsUba18ebj/XhM+zN379nxU/NnRc/NXde/K/rn/tfl8OKn/tfl8Obn/t/+54VP/e/LocFH3tM+u+y5kvymD9JHvN3JccbfD5rVzw83It8Xk9vY48vMTELqQ==
+  </data>
+ </layer>
+</map>
